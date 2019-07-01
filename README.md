@@ -1,2 +1,2 @@
-# hekko-world
+# hello-world
 my hello world repo
